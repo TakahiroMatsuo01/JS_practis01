@@ -8,5 +8,5 @@ console.log('Buzz'+i);
     else if (i%3===0){
         console.log('Fizz'+i);
     }
-
+//テスト
 }
